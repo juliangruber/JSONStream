@@ -1,0 +1,13 @@
+{
+  "name": "JSONStream",
+  "version": "0.4.2",
+  "repo": "juliangruber/JSONStream",
+  "description": "rawStream.pipe(JSONStream.parse()).pipe(streamOfObjects)",
+  "dependencies": {
+    "juliangruber/jsonparse": "0.0.3",
+    "juliangruber/stream": "0.0.1"
+  },
+  "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)",
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
