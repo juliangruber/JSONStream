@@ -8,14 +8,14 @@
     "url": "git://github.com/dominictarr/JSONStream.git"
   },
   "dependencies": {
-    "jsonparse": "0.0.2"
+    "jsonparse": "1.2.0"
   },
   "devDependencies": {
     "it-is": "~1",
-    "assertions": "~2.2.2",
+    "assertions": "~2.3.4",
     "render": "~0.1.1",
     "trees": "~0.0.3",
-    "event-stream": "~0.7.0"
+    "event-stream": "~3.3.4"
   },
   "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://bit.ly/dominictarr)",
   "scripts": {
